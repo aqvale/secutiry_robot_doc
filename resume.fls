@@ -135,10 +135,10 @@ INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
+OUTPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.pdf
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
 OUTPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
-OUTPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.pdf
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\Logo_senai.png
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\Logo_senai.png
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\Logo_senai.png
@@ -146,6 +146,10 @@ INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\Logo_senai.
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\Logo_senai.png
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-t1.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1.tfm
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
 INPUT C:\Users\Anderson Queiroz\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
@@ -153,9 +157,24 @@ INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\liber
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\libertine\LinLibertineT-tlf-t1.vf
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-t1--base.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\libertine\LinLibertineTB-tlf-t1.vf
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineTB-tlf-t1--base.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\tex\latex\libertine\ts1linuxlibertinet-tlf.fd
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-ts1.tfm
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\vf\public\libertine\LinLibertineT-tlf-ts1.vf
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\tfm\public\libertine\LinLibertineT-tlf-ts1--base.tfm
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.aux
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
 INPUT c:\Users\Anderson Queiroz\Desktop\bir\Robot Security\documento\resume.out
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\libertine\lbtn_naooyc.enc
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\libertine\lbtn_nh77jq.enc
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\enc\dvips\libertine\lbtn_76gpa5.enc
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\libertine\LinLibertineT.pfb
 INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\libertine\LinLibertineT.pfb
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\libertine\LinLibertineTB.pfb
+INPUT C:\Users\Anderson Queiroz\AppData\Roaming\MiKTeX\2.9\fonts\type1\public\libertine\LinLibertineTB.pfb
